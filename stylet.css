@@ -1,0 +1,12 @@
+.myhero {
+    background-image: url(/imgpath7.jpg);
+    background-size: cover;
+    background-position: center;
+} 
+#tp {
+    text-align: center;
+}
+.pac{
+    text-align: center;
+    margin: 50px;
+}
